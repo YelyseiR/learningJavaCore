@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="598e9401-834e-45f1-b40a-4bf9490639dc" name="Changes" comment="" />
+=======
+    <list default="true" id="1c439f6e-bde3-4217-9da5-07e1affc581b" name="Changes" comment="" />
+>>>>>>> 855ebd8 (rebuilded project)
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+<<<<<<< HEAD
+        <option value="Interface" />
+        <option value="package-info" />
+=======
+>>>>>>> 855ebd8 (rebuilded project)
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="2ODujRO1C51E9JGbxQVS88TNWb1" />
+=======
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QQtfYUnShrBxVmjXmBOTtYtCGo" />
+>>>>>>> 855ebd8 (rebuilded project)
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.javaCoreHW6.HW29" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="main.java.javaCoreHW5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.javaCoreHW4.Atm" />
+      <module name="javaCore4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.javaCoreHW5.SpaceShip" />
+      <module name="javaCore4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.javaCoreHW5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UberShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.javaCoreHW4.UberShop" />
+      <module name="javaCore4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.javaCoreHW4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpaceShip" />
+        <item itemvalue="Application.Atm" />
+        <item itemvalue="Application.UberShop" />
+      </list>
+    </recent_temporary>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="javaCoreModule10.Exercise2" />
+    </key>
+>>>>>>> 855ebd8 (rebuilded project)
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="598e9401-834e-45f1-b40a-4bf9490639dc" name="Changes" comment="" />
+      <created>1681107610701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681107610701</updated>
+=======
+      <changelist id="1c439f6e-bde3-4217-9da5-07e1affc581b" name="Changes" comment="" />
+      <created>1685297736763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685297736763</updated>
+>>>>>>> 855ebd8 (rebuilded project)
+    </task>
+    <servers />
+  </component>
+</project>
